@@ -1,2 +1,2 @@
 # Libertas
-A React.js social media site similar to Twitter
+A React.js social media site similar to Twitter/Instagram.
